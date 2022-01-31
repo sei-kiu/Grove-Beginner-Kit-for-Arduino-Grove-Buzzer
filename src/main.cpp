@@ -8,7 +8,7 @@ void setup() {
  
 void loop() {
   analogWrite(BuzzerPin, 128);
-  delay(1000);
+  delay(500);
   analogWrite(BuzzerPin, 0);
-  delay(0);
+  delay(500);
 }
