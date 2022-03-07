@@ -4,4 +4,4 @@
 
 Grove Beginner kit for Arudino
 
-This example shows how to drive the buzzer.
+This example shows how to drive the buzzer and play notes.
